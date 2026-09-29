@@ -1,0 +1,353 @@
+[
+  {
+    "chunks": [
+      "# Authentication Member portals require two-factor authentication."
+    ],
+    "content_hash": "713d27be71846d40984382ed8efa0b013a06f5c602b0896b575f2d74f81b7ed9",
+    "fingerprint_hash": "618331704edb11070d6885174080b54b877fe1a4632275196b94c556b4ab9da8",
+    "masked_content": "# Authentication\nMember portals require two-factor authentication.",
+    "metadata": {
+      "access_level": "internal",
+      "document_type": "guide",
+      "document_version": "1",
+      "effective_date": null,
+      "expiry_date": null,
+      "masked_sensitive_data": false,
+      "metadata_explicit": false,
+      "policy_id": "",
+      "product": "*",
+      "region": "*",
+      "source_state": "processed",
+      "title": "Authentication",
+      "topic": ""
+    },
+    "mtime_ns": 1788444092799056500,
+    "path": "benefits/authentication.md",
+    "size": 67,
+    "title": "Authentication"
+  },
+  {
+    "chunks": [
+      "# Refund policy Refunds are available for 30 days with a receipt."
+    ],
+    "content_hash": "a211ed609c03e3f6035a1033a85d23f5af221f4bfecc046b8464a6292973164b",
+    "fingerprint_hash": "d6f7124ab4eb201282f41be47bbd036997bd03d9832f73677a9cf7b6ba2319c1",
+    "masked_content": "# Refund policy\nRefunds are available for 30 days with a receipt.",
+    "metadata": {
+      "access_level": "internal",
+      "document_type": "guide",
+      "document_version": "1",
+      "effective_date": null,
+      "expiry_date": null,
+      "masked_sensitive_data": false,
+      "metadata_explicit": false,
+      "policy_id": "",
+      "product": "*",
+      "region": "*",
+      "source_state": "processed",
+      "title": "Refund policy",
+      "topic": ""
+    },
+    "mtime_ns": 1788444092794537200,
+    "path": "benefits/refunds.md",
+    "size": 66,
+    "title": "Refund policy"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 20 days."
+    ],
+    "content_hash": "0a8f6e806fc379b7098c32e4ebdff9772c0c6c6d2b65dc5c042aab3ead372d90",
+    "fingerprint_hash": "cc72cd6c8cea69dc3526e1af65575eb34b5dd992a8ac775f13115c4212692f17",
+    "masked_content": "Refunds are available for 20 days.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "conflict-refunds",
+      "product": "Conflict Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898346068000,
+    "path": "rag-examples/conflict-a.json",
+    "size": 398,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 40 days."
+    ],
+    "content_hash": "ae75a7e158d9219b87de4fd7d057d072ba194e133dfd4b4e2063e0146f57d5a9",
+    "fingerprint_hash": "d74ad8df1fe47560de2cd3fa1dd384d3d35a30d0db0092148da09237aab3cf83",
+    "masked_content": "Refunds are available for 40 days.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "conflict-refunds",
+      "product": "Conflict Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898355061300,
+    "path": "rag-examples/conflict-b.json",
+    "size": 398,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "A loyalty rebate of USD 80 is available."
+    ],
+    "content_hash": "729480093a6934268bfff09fe59f97aeee2d63703413051178261698c34d6568",
+    "fingerprint_hash": "04a0b5cc5794bddda7423c24e457ca9f7d5ee0ac5f71d00872acade4e0566a8d",
+    "masked_content": "A loyalty rebate of USD 80 is available.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2024-01-01",
+      "expiry_date": "2025-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "loyalty-rebate",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Loyalty Rebate",
+      "topic": "rebate"
+    },
+    "mtime_ns": 1788790898337188600,
+    "path": "rag-examples/expired.json",
+    "size": 389,
+    "title": "Loyalty Rebate"
+  },
+  {
+    "chunks": [
+      "Atlas Hub includes a USB-C power cable."
+    ],
+    "content_hash": "3f05773f35abf649b11537c88eb9287a124e9afb98a59cb372644f81eadd66a8",
+    "fingerprint_hash": "e22354f30c250dae843b1503ec1fefbb224fc657f22582a1be0ef666c8f02791",
+    "masked_content": "Atlas Hub includes a USB-C power cable.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "faq",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub FAQ",
+      "topic": "package"
+    },
+    "mtime_ns": 1788790898379630900,
+    "path": "rag-examples/faq.json",
+    "size": 371,
+    "title": "Atlas Hub FAQ"
+  },
+  {
+    "chunks": [
+      "Atlas Hub supports up to 16 connected devices."
+    ],
+    "content_hash": "79d3f229c8e8c0c0bceab946499eb433807e3e009513a65edc680c36e91c150d",
+    "fingerprint_hash": "517bdc380f247c42607b01dbd96b0e2bfd7a4a4b303fe8a572b5ab72e12f75ba",
+    "masked_content": "Atlas Hub supports up to 16 connected devices.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "product",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Specifications",
+      "topic": "capacity"
+    },
+    "mtime_ns": 1788790898368929600,
+    "path": "rag-examples/product.json",
+    "size": 394,
+    "title": "Atlas Hub Specifications"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 45 days with a receipt."
+    ],
+    "content_hash": "c93839d10ca35fccd888da832cb8f39b9275515eb626da34ddd0c5c62d7ae05e",
+    "fingerprint_hash": "920e228016a08f33b09d047d2f996d96032d0955ea8c1f64f9a86996a0d2f09d",
+    "masked_content": "Refunds are available for 45 days with a receipt.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "atlas-refunds",
+      "product": "Atlas Hub",
+      "region": "EU",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898317741200,
+    "path": "rag-examples/refunds-eu.json",
+    "size": 407,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 90 days with a receipt."
+    ],
+    "content_hash": "0ced6d8184fbab153e7ffa1e4d59506f997bcb59901a2df6d55cf8e5aba874cc",
+    "fingerprint_hash": "b584c2987ac4fd4267f050ef0251703a6a446f155cfd513973358510b66f21de",
+    "masked_content": "Refunds are available for 90 days with a receipt.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "3",
+      "effective_date": "2099-01-01",
+      "expiry_date": null,
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "atlas-refunds",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898308690600,
+    "path": "rag-examples/refunds-future.json",
+    "size": 399,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 14 days with a receipt."
+    ],
+    "content_hash": "f842ecfd91cf1eca14947c9d2827da5a62bea63cb21bdbffa43d549c9ed81a35",
+    "fingerprint_hash": "36e8229ce40b248cfb327ede5723112c715e140b4d625346dd97176b7723a74f",
+    "masked_content": "Refunds are available for 14 days with a receipt.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "1",
+      "effective_date": "2025-01-01",
+      "expiry_date": "2026-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "atlas-refunds",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898286756800,
+    "path": "rag-examples/refunds-v1.json",
+    "size": 407,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "Refunds are available for 30 days with a receipt."
+    ],
+    "content_hash": "641f1e97a7072959860fa71bf1803289024ad950108906b91b1fb831093b3433",
+    "fingerprint_hash": "02e2f6a1c16be91bcf3022953449863e622866b40ce8017e437dc418605026e8",
+    "masked_content": "Refunds are available for 30 days with a receipt.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "atlas-refunds",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Refund Policy",
+      "topic": "refunds"
+    },
+    "mtime_ns": 1788790898299450100,
+    "path": "rag-examples/refunds-v2.json",
+    "size": 407,
+    "title": "Atlas Hub Refund Policy"
+  },
+  {
+    "chunks": [
+      "Manual credit adjustments are limited to USD 750."
+    ],
+    "content_hash": "48b2439f1ed865f440cd8a5f88898908f3b760cb47f746d44f63e4157a43813d",
+    "fingerprint_hash": "0edf473d95868b79b61d0ac9245d70a67eb69406c14bc94f881cdaa1ad034dc2",
+    "masked_content": "Manual credit adjustments are limited to USD 750.",
+    "metadata": {
+      "access_level": "restricted",
+      "document_type": "policy",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "manual-credit",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Manual Credit Policy",
+      "topic": "credit"
+    },
+    "mtime_ns": 1788790898326568600,
+    "path": "rag-examples/restricted.json",
+    "size": 407,
+    "title": "Manual Credit Policy"
+  },
+  {
+    "chunks": [
+      "For error ERR-204, restart Atlas Hub and reconnect the network cable."
+    ],
+    "content_hash": "07e0908bbbf19c2dcc0d2698d59ac61ff53e6b1d84dad92bc26948435a981691",
+    "fingerprint_hash": "231dd93f57afa2e20aaf6f5df6ddd0d30fd111c8278673a125fc290362662b74",
+    "masked_content": "For error ERR-204, restart Atlas Hub and reconnect the network cable.",
+    "metadata": {
+      "access_level": "public",
+      "document_type": "troubleshooting",
+      "document_version": "2",
+      "effective_date": "2026-01-01",
+      "expiry_date": "2028-01-01",
+      "masked_sensitive_data": false,
+      "metadata_explicit": true,
+      "policy_id": "",
+      "product": "Atlas Hub",
+      "region": "US",
+      "source_state": "processed",
+      "title": "Atlas Hub Troubleshooting",
+      "topic": "ERR-204"
+    },
+    "mtime_ns": 1788790898385558900,
+    "path": "rag-examples/troubleshooting.json",
+    "size": 425,
+    "title": "Atlas Hub Troubleshooting"
+  }
+]

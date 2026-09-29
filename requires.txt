@@ -1,0 +1,6 @@
+
+[hosted]
+Flask<4,>=3.1.2
+Flask-WTF<2,>=1.2.2
+Flask-Limiter[redis]<5,>=4.0
+waitress<4,>=3.0.2

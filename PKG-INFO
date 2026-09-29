@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: kb-pipeline
+Version: 0.1.0
+Summary: Production knowledge-base update pipeline for chatbot retrieval systems
+Requires-Python: >=3.10
+Provides-Extra: hosted
+Requires-Dist: Flask<4,>=3.1.2; extra == "hosted"
+Requires-Dist: Flask-WTF<2,>=1.2.2; extra == "hosted"
+Requires-Dist: Flask-Limiter[redis]<5,>=4.0; extra == "hosted"
+Requires-Dist: waitress<4,>=3.0.2; extra == "hosted"

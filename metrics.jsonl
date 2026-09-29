@@ -1,0 +1,74 @@
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 0.9821, "recorded_at": "2026-09-03T13:45:41+00:00"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 6.4851, "recorded_at": "2026-09-07T13:47:07+00:00"}
+{"average_confidence": 1.0, "checked_at": "2026-09-07T02:10:00+00:00", "details": "simulated healthy check", "escalation_rate": 0.0, "event_type": "health", "failure_rate": 0.0, "latency_ms": 0.0, "recorded_at": "2026-09-07T14:21:39+00:00", "status": "pass", "version_id": null}
+{"errors": [], "event_type": "update", "failed": false, "latency_ms": 621.3768, "recorded_at": "2026-09-07T14:21:39+00:00", "status": "activated", "version_id": "20260907T021000Z-af0725131a14"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 12.9192, "recorded_at": "2026-09-07T14:22:26+00:00"}
+{"as_of": "2026-09-07", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:22:26+00:00", "status": "answered"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 21.3811, "recorded_at": "2026-09-07T14:24:43+00:00"}
+{"as_of": "2026-09-07", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:24:43+00:00", "status": "answered"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 18.6558, "recorded_at": "2026-09-07T14:24:44+00:00"}
+{"as_of": "2025-06-01", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:24:44+00:00", "status": "answered"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 23.133, "recorded_at": "2026-09-07T14:25:17+00:00"}
+{"as_of": "2026-09-07", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:17+00:00", "status": "insufficient_evidence"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 14.7797, "recorded_at": "2026-09-07T14:25:18+00:00"}
+{"as_of": "2026-09-07", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:18+00:00", "status": "insufficient_evidence"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 12.9734, "recorded_at": "2026-09-07T14:25:18+00:00"}
+{"as_of": "2026-09-07", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:18+00:00", "status": "needs_clarification"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 9.9101, "recorded_at": "2026-09-07T14:25:19+00:00"}
+{"as_of": "2026-09-07", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:19+00:00", "status": "unsupported_claim"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 18.144, "recorded_at": "2026-09-07T14:25:20+00:00"}
+{"as_of": "2026-09-07", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:20+00:00", "status": "answered"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 14.3615, "recorded_at": "2026-09-07T14:25:20+00:00"}
+{"as_of": "2026-09-07", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:20+00:00", "status": "answered"}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 17.7107, "recorded_at": "2026-09-07T14:25:49+00:00"}
+{"as_of": "2026-09-07", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-07T14:25:49+00:00", "status": "answered"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 37.8167, "recorded_at": "2026-09-17T06:31:21+00:00"}
+{"as_of": "2026-09-17", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T06:31:21+00:00", "status": "insufficient_evidence"}
+{"confidence": 0.78, "escalated": true, "event_type": "conversation_analysis", "failed": false, "label": "positive", "language": "en", "latency_ms": 106.696, "queue": "on_call", "recorded_at": "2026-09-17T06:31:21+00:00"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 14.921, "recorded_at": "2026-09-17T06:31:45+00:00"}
+{"as_of": "2026-09-17", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T06:31:45+00:00", "status": "insufficient_evidence"}
+{"confidence": 0.84, "escalated": false, "event_type": "conversation_analysis", "failed": false, "label": "negative", "language": "en", "latency_ms": 45.53, "queue": "next_working_day", "recorded_at": "2026-09-17T06:31:45+00:00"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 14.2161, "recorded_at": "2026-09-17T06:32:08+00:00"}
+{"as_of": "2026-09-17", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T06:32:08+00:00", "status": "insufficient_evidence"}
+{"confidence": 0.74, "escalated": true, "event_type": "conversation_analysis", "failed": false, "label": "sarcastic", "language": "en", "latency_ms": 56.673, "queue": "next_working_day", "recorded_at": "2026-09-17T06:32:08+00:00"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 13.6061, "recorded_at": "2026-09-17T06:34:06+00:00"}
+{"as_of": "2026-09-17", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T06:34:06+00:00", "status": "needs_clarification"}
+{"confidence": 0.78, "escalated": false, "event_type": "conversation_analysis", "failed": false, "label": "frustrated", "language": "hi", "latency_ms": 55.087, "queue": "next_working_day", "recorded_at": "2026-09-17T06:34:06+00:00"}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 17.7459, "recorded_at": "2026-09-17T07:19:49+00:00"}
+{"as_of": "2026-09-15", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:19:49+00:00", "status": "insufficient_evidence"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "ta", "language_confidence": 0.97, "latency_ms": 336.706, "recorded_at": "2026-09-17T07:19:49+00:00", "request_count": 1}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 16.5183, "recorded_at": "2026-09-17T07:20:04+00:00"}
+{"as_of": "2026-09-15", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:20:04+00:00", "status": "needs_clarification"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "te", "language_confidence": 0.97, "latency_ms": 146.475, "recorded_at": "2026-09-17T07:20:04+00:00", "request_count": 1}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 23.7286, "recorded_at": "2026-09-17T07:20:05+00:00"}
+{"as_of": "2026-09-15", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:20:05+00:00", "status": "needs_clarification"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "bn", "language_confidence": 0.97, "latency_ms": 167.763, "recorded_at": "2026-09-17T07:20:05+00:00", "request_count": 1}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 26.7624, "recorded_at": "2026-09-17T07:30:18+00:00"}
+{"as_of": "2026-09-15", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:30:18+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "bn", "language_confidence": 0.97, "latency_ms": 329.342, "recorded_at": "2026-09-17T07:30:18+00:00", "request_count": 1}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 16.2793, "recorded_at": "2026-09-17T07:30:56+00:00"}
+{"as_of": "2026-09-15", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:30:56+00:00", "status": "insufficient_evidence"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "te", "language_confidence": 0.97, "latency_ms": 185.19, "recorded_at": "2026-09-17T07:30:56+00:00", "request_count": 1}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 14.6227, "recorded_at": "2026-09-17T07:34:45+00:00"}
+{"as_of": "2026-09-17", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:34:45+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "ta", "language_confidence": 0.97, "latency_ms": 147.045, "recorded_at": "2026-09-17T07:34:45+00:00", "request_count": 1}
+{"clarification": true, "event_type": "session_message", "intent_confidence": 0.2, "language": "ta", "language_confidence": 0.1, "latency_ms": 31.201, "recorded_at": "2026-09-17T07:36:17+00:00", "request_count": 0}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 3.0835, "recorded_at": "2026-09-17T07:36:41+00:00"}
+{"as_of": "2026-09-17", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-17T07:36:41+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "ta", "language_confidence": 0.97, "latency_ms": 82.299, "recorded_at": "2026-09-17T07:36:41+00:00", "request_count": 1}
+{"clarification": true, "event_type": "session_message", "intent_confidence": 0.2, "language": "ta", "language_confidence": 0.1, "latency_ms": 41.429, "recorded_at": "2026-09-17T07:36:50+00:00", "request_count": 0}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 51.0594, "recorded_at": "2026-09-17T12:35:37+00:00"}
+{"as_of": "2026-09-17", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-17T12:35:37+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "en", "language_confidence": 0.97, "latency_ms": 337.325, "recorded_at": "2026-09-17T12:35:37+00:00", "request_count": 1}
+{"confidence": 0.0, "escalated": true, "event_type": "query", "failed": false, "latency_ms": 37.2622, "recorded_at": "2026-09-17T13:56:02+00:00"}
+{"as_of": "2026-09-17", "citation_count": 0, "event_type": "rag_answer", "recorded_at": "2026-09-17T13:56:02+00:00", "status": "insufficient_evidence"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "en", "language_confidence": 0.78, "latency_ms": 165.766, "recorded_at": "2026-09-17T13:56:02+00:00", "request_count": 1}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 18.0486, "recorded_at": "2026-09-17T13:57:29+00:00"}
+{"as_of": "2026-09-17", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-17T13:57:29+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "ta", "language_confidence": 0.97, "latency_ms": 142.982, "recorded_at": "2026-09-17T13:57:29+00:00", "request_count": 1}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 16.0, "recorded_at": "2026-09-28T14:02:45+00:00"}
+{"as_of": "2026-09-28", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-28T14:02:45+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "en", "language_confidence": 0.97, "latency_ms": 218.0, "recorded_at": "2026-09-28T14:02:45+00:00", "request_count": 1}
+{"confidence": 1.0, "escalated": false, "event_type": "query", "failed": false, "latency_ms": 31.0, "recorded_at": "2026-09-28T14:08:43+00:00"}
+{"as_of": "2026-09-28", "citation_count": 1, "event_type": "rag_answer", "recorded_at": "2026-09-28T14:08:43+00:00", "status": "answered"}
+{"clarification": false, "event_type": "session_message", "intent_confidence": 0.86, "language": "en", "language_confidence": 0.97, "latency_ms": 328.0, "recorded_at": "2026-09-28T14:08:43+00:00", "request_count": 1}
